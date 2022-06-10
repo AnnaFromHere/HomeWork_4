@@ -1,0 +1,10 @@
+{
+    "request": {
+        "method": "POST",
+        "urlPath": "/users/add"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "AddUser.json"
+    }
+}
